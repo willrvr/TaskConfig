@@ -9,7 +9,7 @@ const global = {
         v2ex: true,
         china_telecom: true,
         rrtv: true,
-        eleme: false
+        eleme: ture
     },
     data: {
         china_telecom: "" //此处输入要签到的手机号码,半角双引号中间
